@@ -1,0 +1,50 @@
+#p1 {
+    border-bottom: 3px solid red;
+    border-top: 3px solid red ;
+    border-left: 3px solid red ;
+    border-right: 3px solid red ;
+}
+#p2 {
+    border-bottom: 2px solid blue ;
+    border-top: 2px solid blue ;
+    border-left: 2px solid blue ;
+    border-right: 2px solid blue ;
+}
+#p3 {
+    border-bottom:  2px dotted yellow ;
+    border-top: 2px dotted yellow;
+    border-left:  2px dotted yellow;
+    border-right:  2px dotted yellow;
+}
+#p4 {
+    border-bottom: 4px dotted blue ;
+    border-top: 4px dotted red ;
+    border-left: 4px dotted yellow;
+    border-right: 4px dotted green;
+}
+#p5 {
+    border-bottom:  10px solid black;
+    border-bottom-style:double ;
+    border-top: 10px solid black ;
+    border-top-style:double ;
+    border-left: 10px solid black ;
+    border-left-style:double ;
+    border-right: 10px solid black ;
+    border-right-style: double;
+}
+#p6 {
+    border-bottom: 5px solid black ;
+    border-bottom-style: double;
+    border-top: 5px solid black;
+    border-top-style: double;
+    border-left: 5px solid black;
+    border-left-style: double;
+    border-right: 5px solid black;
+    border-right-style: double;
+}
+#p7 {
+    border-bottom: 3px solid black ;
+    border-top: 1px solid black;
+    border-left: 12px solid black;
+    border-right:  6px solid black ;
+}

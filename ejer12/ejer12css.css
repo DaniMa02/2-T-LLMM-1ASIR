@@ -1,0 +1,15 @@
+div#div1 {
+    background-image: url("imgejer12.jpg") ;
+    background-size: cover;
+    border: 5px solid pink;
+    color: white;
+}
+
+div#div2 {
+    background-image: url("imgejer12.jpg");
+    background-size: 300px 100px;
+    background-repeat: no-repeat;
+    border: 5px solid pink;
+    
+
+}

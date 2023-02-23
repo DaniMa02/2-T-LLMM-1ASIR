@@ -1,0 +1,47 @@
+.d0 {
+    border: 2px solid black;
+    background-color:tan;
+    margin-top: 20px;
+    width: 500px;
+    
+}
+.d1 {
+border: 2px solid black;
+background-color:tan;
+margin-top: 20px;
+width: 500px;
+
+}
+.d2 {
+border: 2px solid black;
+background-color:tan;
+margin-top: 20px;
+width: 500px;
+background-repeat: no-repeat;
+background-size: 100px 100px;
+
+
+}
+
+.d3 {
+border: 2px solid black;
+background-color:tan;
+margin-top: 20px;
+width: 500px;
+
+}
+.i1{
+    float: left;
+   width: 100px;
+   height: 100px;
+}
+
+.i2{
+    float: right;   
+}
+.i3 {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+

@@ -1,0 +1,9 @@
+.d1{
+    display: inline;
+    background-color: blue;
+    color: white;
+}
+img {
+    float: none;
+    width: 300px;
+}

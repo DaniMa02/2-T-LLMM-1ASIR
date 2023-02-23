@@ -1,0 +1,13 @@
+div {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .3em;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font: 1em Arial, Helvetica, sans-serif;
+}
+.d1 {overflow: visible;}
+.d2 {overflow: hidden;}
+.d3 {overflow: scroll;}

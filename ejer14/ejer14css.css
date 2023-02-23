@@ -1,0 +1,15 @@
+h1 {
+    background-color: lightskyblue;
+    margin: auto;
+    width: 300px;
+}
+#p1 {
+    background-color: lightskyblue;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+#p2 {
+    background-color: lightskyblue;
+    padding: 50px;
+}

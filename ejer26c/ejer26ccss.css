@@ -1,0 +1,30 @@
+.d1 {
+    background-color: yellow ;
+    border: 2px solid black;
+    width: 700px;
+}
+.d2 {
+    background-color: orange;
+    border: 2px solid black; 
+    width: 700px;
+    top: 15px;
+    position: relative;
+}
+.d3 {
+    background-color: green;
+    border: 2px solid black;
+    z-index: 1;
+    position: absolute;
+    width: 450px;
+    top: 40px;
+    left: 100px;
+}
+.d4 {
+    background-color: aqua;
+    border: 2px solid black;
+    z-index: 50;
+    position: absolute;
+    width: 350px;
+    top: 180px;
+    left: 150px;
+}

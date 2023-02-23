@@ -1,0 +1,15 @@
+.d1 {
+    background-color: aqua;
+    border: 5px solid black;
+}
+.d2 {
+position: relative;    
+background-image: linear-gradient(blue,red,lightgreen);
+left: 100px;
+bottom: 50px;
+border: 5px solid black;
+}
+.d3 {
+    background-image: radial-gradient(red,yellow,green);
+    border: 5px solid black;
+}
