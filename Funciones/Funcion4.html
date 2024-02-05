@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var num1, num2, num3,num4;
+        var num1= parseInt(prompt("Teclee el primer numero"));
+        var num2= parseInt(prompt("Teclee el segundo numero"));
+        var num3= parseInt(prompt("Teclee el tercer numero"));
+        var num4=menor(num1,num2,num3);
+        document.write("El número más pequeño de los introducidos es: "+num4+"");
+        
+        function menor(num1,num2,num3)
+        {
+        
+        return Math.min(num1,num2,num3);
+        
+    }
+
+
+    </script>
+    
+</body>
+</html>

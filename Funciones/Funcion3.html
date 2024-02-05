@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        var cadena1=prompt("Teclea una cadena");
+        var cadena2=cadena1.toLowerCase().split(" ").join("");
+        var cadena3=cadena2.split("").reverse().join("");
+        var respuesta=palindroma(cadena1,cadena3);        
+        document.write(""+respuesta+"");
+        
+
+
+        function palindroma(cadena1,cadena3) {
+
+            if(cadena2 == cadena3) {
+                return "Es una cadena palíndroma";
+            }
+
+            else {
+                return "No es una cadena palindroma";
+            }
+
+        }
+
+
+
+
+    </script>
+    
+</body>
+</html>
